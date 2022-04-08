@@ -5,3 +5,4 @@ that is from bug fix
 this is how we do
 this is from local repository
 huawei
+this is my new addition from remote repository
