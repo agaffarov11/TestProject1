@@ -2,7 +2,7 @@ hello world one
 hello world two
 hello world three
 that is from bug fix
-this is how we do
+this is how we go
 this is from local repository
 huawei is 
 this is my new addition from remote repository
